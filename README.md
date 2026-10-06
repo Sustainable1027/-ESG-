@@ -17,6 +17,7 @@ The model jointly estimates the conditional associations of the environmental, s
 This folder contains analytical materials supporting the sensitivity and publication-bias assessments reported in Section 4.4. These materials relate to:
 - assessment of influential estimates using the Sample-Adjusted Meta-Analytic Deviancy (SAMD) statistic and structural-model re-estimation after their removal; and
 - publication-bias diagnostics, including Egger’s regression test, Rosenthal’s fail-safe N, and Trim-and-Fill procedures.
+
 The folder includes the matrices used to re-estimate the structural model for the reported sensitivity checks. These analyses assess whether influential estimates or potential small-study effects materially alter the principal comparative domain-to-outcome pattern. They are sensitivity diagnostics and do not independently validate the underlying data or analytical decisions of the primary studies.
 
 Replicability and Data Availability
